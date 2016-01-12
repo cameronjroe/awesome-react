@@ -997,11 +997,10 @@ A collection of awesome things regarding React ecosystem.
 * [ ] [Lin Clark - Making small modules actually work with webpack and npm](https://www.youtube.com/watch?v=p3Wi3xBQdAM)
 
 #### Video Tutorials
-* [ ] [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
-* [ ] [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
-* [ ] [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
-* [ ] [React.js Components  - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
-* [ ] [React.js Components  - part 2](http://www.youtube.com/watch?v=5yvFLrt7N8M)
+* [x] [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
+* [x] [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
+* [x] [React.js Components  - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
+* [x] [React.js Components  - part 2](http://www.youtube.com/watch?v=5yvFLrt7N8M)
 * [ ] [Advanced Input Validation With React](https://www.youtube.com/watch?v=Mjcou3UCiBM)
 * [ ] [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
 * [ ] [Building UIs with ReactJS](http://www.youtube.com/watch?v=lAn7GVoGlKU)
